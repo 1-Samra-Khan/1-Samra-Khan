@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Samra Khan</h1>
 
-<h3 align="center">Aspiring Software Developer • MERN Stack Developer • Cybersecurity Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer • MERN Stack Developer </h3>
 
 ---
 
